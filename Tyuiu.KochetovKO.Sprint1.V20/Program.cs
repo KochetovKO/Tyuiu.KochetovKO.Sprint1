@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Tyuiu.KochetovKO.Sprint1.V0.Lib;
 namespace Tyuiu.KochetovKO.Sprint1.V0
 {
-    internal class Program
+    internal class Program 
     {
         static void Main(string[] args)
         {
