@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Tyuiu.KochetovKO.Sprint1.V20.Lib;
-namespace Tyuiu.KochetovKO.Sprint1.V0 
+namespace Tyuiu.KochetovKO.Sprint1.V20 
 {
-    internal class Program 
+    class Program 
     {
         static void Main(string[] args)
         {
@@ -17,7 +17,7 @@ namespace Tyuiu.KochetovKO.Sprint1.V0
             Console.WriteLine("Тема: Базовые навыки работы в C#                                    ");
             Console.WriteLine("**********************************************                      ");
             Console.WriteLine("Задание №0                                                          ");
-            Console.WriteLine("Вариант №22                                                         ");
+            Console.WriteLine("Вариант №20                                                         ");
             Console.WriteLine("Выполнил: Кочетов Кирилл Олегович | ИСПБ-25-1                       ");
             Console.WriteLine("********************************************************************");
             Console.WriteLine("УСЛОВИЕ:                                                            ");
