@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KochetovKO.Sprint1.V2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KochetovKO.Sprint1.V20.Lib", "Tyuiu.KochetovKO.Sprint1.V20.Lib\Tyuiu.KochetovKO.Sprint1.V20.Lib.csproj", "{A07A6275-4414-478C-8FF7-00874948D91E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KochetovKO.Sprint1.Test", "Tyuiu.KochetovKO.Sprint1.Test\Tyuiu.KochetovKO.Sprint1.Test.csproj", "{26C30A2D-8C69-47CD-B0FE-4230021B4350}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KochetovKO.Sprint1.V20.Test", "Tyuiu.KochetovKO.Sprint1.Test\Tyuiu.KochetovKO.Sprint1.V20.Test.csproj", "{26C30A2D-8C69-47CD-B0FE-4230021B4350}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
