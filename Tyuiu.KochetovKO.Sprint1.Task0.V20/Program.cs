@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.KochetovKO.Sprint1.V20.Lib;
-namespace Tyuiu.KochetovKO.Sprint1.V20 
+using Tyuiu.KochetovKO.Sprint1.Task0.V20.Lib;
+namespace Tyuiu.KochetovKO.Sprint1.Task0.V20 
 {
     class Program 
     {
