@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.KochetovKO.Sprint1.Task0.V20.Lib\Tyuiu.KochetovKO.Sprint1.V20.Lib.csproj" />
     <ProjectReference Include="..\Tyuiu.KochetovKO.Sprint1.V20.Lib\Tyuiu.KochetovKO.Sprint1.V20.Lib.csproj" />
   </ItemGroup>
 
