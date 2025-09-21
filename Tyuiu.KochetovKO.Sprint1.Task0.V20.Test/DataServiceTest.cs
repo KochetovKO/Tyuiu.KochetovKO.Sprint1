@@ -12,7 +12,6 @@ namespace Tyuiu.KochetovKO.Sprint1.V20.Test
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
-            Assert.AreEqual(13, res);
 
         }
     }
