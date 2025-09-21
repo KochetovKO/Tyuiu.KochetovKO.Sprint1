@@ -17,11 +17,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proverochka", "proverochka\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{FB183854-5D15-4665-BD8D-137019802889}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KochetovKo.Sprint1.Task1.V20", "Tyuiu.KochetovKo.Sprint1.Task1.V20\Tyuiu.KochetovKo.Sprint1.Task1.V20.csproj", "{68633C07-A837-416E-ABD5-FF14A43BEBE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KochetovKO.Sprint1.Task1.V20", "Tyuiu.KochetovKo.Sprint1.Task1.V20\Tyuiu.KochetovKO.Sprint1.Task1.V20.csproj", "{68633C07-A837-416E-ABD5-FF14A43BEBE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KochetovKo.Sprint1.Task1.V20.Test", "Tyuiu.KochetovKo.Sprint1.Task1.V20.Test\Tyuiu.KochetovKo.Sprint1.Task1.V20.Test.csproj", "{5990551E-D445-42A4-8581-1A896F408691}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KochetovKO.Sprint1.Task1.V20.Test", "Tyuiu.KochetovKo.Sprint1.Task1.V20.Test\Tyuiu.KochetovKO.Sprint1.Task1.V20.Test.csproj", "{5990551E-D445-42A4-8581-1A896F408691}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KochetovKo.Sprint1.Task1.V20.Lib", "Tyuiu.KochetovKo.Sprint1.Task1.V20.Lib\Tyuiu.KochetovKo.Sprint1.Task1.V20.Lib.csproj", "{4D24BB39-71CC-4B64-A6DD-6EFFEA91BECF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KochetovKO.Sprint1.Task1.V20.Lib", "Tyuiu.KochetovKo.Sprint1.Task1.V20.Lib\Tyuiu.KochetovKO.Sprint1.Task1.V20.Lib.csproj", "{4D24BB39-71CC-4B64-A6DD-6EFFEA91BECF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
