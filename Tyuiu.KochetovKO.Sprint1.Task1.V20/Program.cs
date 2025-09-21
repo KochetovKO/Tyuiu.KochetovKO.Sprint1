@@ -12,7 +12,7 @@ namespace Tyuiu.KochetovKO.Sprint1.Task1.V20
         static void Main(string[] args)
         {
             Console.Title = "Спринт 1 | выполнил: Кочетов К.О. | ИСПБ-25-1";
-            Console.WriteLine("*********************************************************************"); 
+            Console.WriteLine("*********************************************************************");
             Console.WriteLine("Спринт №1                                                            ");
             Console.WriteLine("Тема: Базовые навыки работы в C#                                     ");
             Console.WriteLine("**********************************************                       ");
@@ -22,7 +22,7 @@ namespace Tyuiu.KochetovKO.Sprint1.Task1.V20
             Console.WriteLine("*********************************************************************");
             Console.WriteLine("УСЛОВИЕ:                                                             ");
             Console.WriteLine("Написать программу которая запрашивает у пользователя исходные данные");
-            Console.WriteLine("Вычисляет результат по формуле (x * y / 2) и печатает его на экране  ");
+            Console.WriteLine("вычисляет результат оп формуле (x * y / 2) и печатает его на экране  ");
             Console.WriteLine("                                                                     ");
             Console.WriteLine("*********************************************************************");
             Console.WriteLine("ИСХОДНЫЕ ДАННЫЕ :                                                    ");
