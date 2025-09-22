@@ -13,7 +13,7 @@ namespace Tyuiu.KochetovKO.Sprint1.Task2.V17.Test
             Console.Write("Введите количество минут");
             int minutes = Convert.ToInt32(Console.ReadLine());
 
-            int res = ds.ConvertMinutesToHours(minutes);
+            int res = ds.ConvertMinutesToHours(minutes); 
 
             Console.WriteLine($"Результат: {res}");
 
