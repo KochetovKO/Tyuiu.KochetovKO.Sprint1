@@ -10,6 +10,7 @@ namespace Tyuiu.KochetovKO.Sprint1.Task3.V11
     {
         static void Main(string[] args)
         {
+            DataService ds = new DataService();
             Console.Title = "Спринт 1 | выполнил: Кочетов К.О. | ИСПБ-25-1";
             Console.WriteLine("*********************************************************************");
             Console.WriteLine("Спринт №1                                                            ");
@@ -38,8 +39,10 @@ namespace Tyuiu.KochetovKO.Sprint1.Task3.V11
             Console.WriteLine("* Результат");
             Console.WriteLine("*********************************************************************");
 
-            DataService ds = new DataService();
-            Console.WriteLine(ds.Calculate(x, y));
+            var o = ds.Calculate(x, y);
+
+            Console.WriteLine(Math.Round(o, 3));
+            Console.WriteLine();
 
             Console.ReadLine();
         }
