@@ -41,7 +41,7 @@ namespace Tyuiu.KochetovKO.Sprint1.Task3.V11
 
             var o = ds.Calculate(x, y);
 
-            Console.WriteLine(Math.Round(o, 3));
+            Console.WriteLine(Math.Round(o, 3)); 
             Console.WriteLine();
 
             Console.ReadLine();
