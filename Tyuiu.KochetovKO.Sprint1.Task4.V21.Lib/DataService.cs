@@ -9,7 +9,7 @@ namespace Tyuiu.KochetovKO.Sprint1.Task4.V21.Lib
             var r = Math.Pow(s, 2);
             var w = r - y;
             var q = Math.Abs(w);
-            return (q / (x + y));
+            return Math.Round(q / (x + y), 3);
         }
     }
 }

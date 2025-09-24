@@ -39,7 +39,7 @@ namespace Tyuiu.KochetovKO.Sprint1.Task3.V11
             Console.WriteLine("* Результат");
             Console.WriteLine("*********************************************************************");
 
-            Console.WriteLine(Math.Round(ds.Calculate(x, y), 3)); 
+            Console.WriteLine(ds.Calculate(x, y)); 
             Console.WriteLine();
 
             Console.ReadLine();
