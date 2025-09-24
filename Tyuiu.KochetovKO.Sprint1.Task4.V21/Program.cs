@@ -7,7 +7,7 @@ using Tyuiu.KochetovKO.Sprint1.Task4.V21.Lib;
 namespace Tyuiu.KochetovKO.Sprint1.Task3.V11
 {
     class Program
-    {
+    { 
         static void Main(string[] args)
         {
             DataService ds = new DataService();
@@ -39,9 +39,7 @@ namespace Tyuiu.KochetovKO.Sprint1.Task3.V11
             Console.WriteLine("* Результат");
             Console.WriteLine("*********************************************************************");
 
-            var o = ds.Calculate(x, y);
-
-            Console.WriteLine(Math.Round(o, 3)); 
+            Console.WriteLine(Math.Round(ds.Calculate(x, y), 3)); 
             Console.WriteLine();
 
             Console.ReadLine();
