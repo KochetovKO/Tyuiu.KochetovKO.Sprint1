@@ -1,0 +1,23 @@
+﻿using Tyuiu.KochetovKO.Sprint1.Task5.V5.Lib;
+namespace Tyuiu.KochetovKO.Sprint1.Task5.V5.Test
+{
+    [TestClass]
+    public sealed class DataServcieTest
+    {
+        [TestMethod]
+        public void TestMethod1()
+        {
+            DataService ds = new DataService();
+            double x = 32.597;
+            double res = ds.Calculate();
+
+            int result = Convert.ToInt32(res);
+
+            int wait = 5;
+
+            Assert.AreEqual(wait, result);
+
+
+        }
+    }
+}
